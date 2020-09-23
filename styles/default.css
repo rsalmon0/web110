@@ -1,0 +1,42 @@
+body {
+  margin: 50px;
+  font-family: 'Baloo Bhai 2', cursive;
+  color: coral;
+  background-color: purple;
+  text-align: left;
+  font-size: 130%;
+  margin-right: 200px;
+  margin-left: 200px;
+}
+
+a { color: orange }
+a:hover { color: pink; }
+
+
+main {
+	
+}
+
+header {
+	
+}
+footer { 
+  text-align: center;
+}
+
+h1 { 
+  text-align: center;
+  font-family: 'Metamorphous', cursive;
+}
+h2 {
+  text-align: center;
+  font-family: 'Metamorphous', cursive;
+}
+figure {
+	text-align: center;
+}
+figcaption {
+	font-style: italic;
+	font-size: 80%;
+	font-family: 'Metamorphous', cursive;
+}
